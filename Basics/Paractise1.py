@@ -559,7 +559,7 @@ print(thislist)
 # In[129]:
 
 
-thislist = ["apple", "banana", "cherry"]
+thislist = ["apple", "banana", "cherry", "Nashpati"]
 mylist = thislist.copy()
 print(mylist)
 
